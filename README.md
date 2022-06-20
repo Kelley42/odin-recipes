@@ -1,3 +1,3 @@
 # Recipes
 
-This is a simple webpage to practice fundamental HTML and CSS.
+This is a simple webpage to practice HTML and CSS fundamentals.
